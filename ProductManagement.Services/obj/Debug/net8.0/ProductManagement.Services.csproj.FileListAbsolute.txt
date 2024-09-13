@@ -1,0 +1,15 @@
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.deps.json
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.dll
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Services.pdb
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\bin\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.csproj.AssemblyReference.cache
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.AssemblyInfoInputs.cache
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.AssemblyInfo.cs
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductM.9B44A000.Up2Date
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.dll
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\refint\ProductManagement.Services.dll
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ProductManagement.Services.pdb
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Services\obj\Debug\net8.0\ref\ProductManagement.Services.dll

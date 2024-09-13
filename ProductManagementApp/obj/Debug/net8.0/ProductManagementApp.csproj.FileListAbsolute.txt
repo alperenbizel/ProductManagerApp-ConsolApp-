@@ -1,0 +1,4 @@
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagementApp\obj\Debug\net8.0\ProductManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagementApp\obj\Debug\net8.0\ProductManagementApp.AssemblyInfoInputs.cache
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagementApp\obj\Debug\net8.0\ProductManagementApp.AssemblyInfo.cs
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagementApp\obj\Debug\net8.0\ProductManagementApp.csproj.CoreCompileInputs.cache

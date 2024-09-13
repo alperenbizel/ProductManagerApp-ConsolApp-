@@ -1,0 +1,11 @@
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.deps.json
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\bin\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.AssemblyInfoInputs.cache
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.AssemblyInfo.cs
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.dll
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\refint\ProductManagement.Models.dll
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\ProductManagement.Models.pdb
+C:\Users\FUAT\source\repos\ConsoleApp2\ProductManagement.Models\obj\Debug\net8.0\ref\ProductManagement.Models.dll
